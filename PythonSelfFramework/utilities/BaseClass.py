@@ -19,9 +19,7 @@ class BaseClass:
       expected_conditions.presence_of_element_located((By.LINK_TEXT, text)))
 
    def getLogger(self):
-
       loggerName = inspect.stack()[1][3]
-
       logger = logging.getLogger(loggerName)
       fileHandler = logging.FileHandler('logfile.log')
 
@@ -31,6 +29,18 @@ class BaseClass:
 
       logger.addHandler(fileHandler)
 
-      logger.setLevel(logging.info)
+      logger.setLevel(logging.INFO)
 
       return logger
+
+
+   # logging hierchy
+   # logger.debug(“a debug statement is executed”)
+   #
+   # logger.info(“Information statement”)
+   #
+   # logger.warning(“Something is in warning mode”)
+   #
+   # logger.error(“A major error has happened”)
+   #
+   # logger.critical(“Critical issues)

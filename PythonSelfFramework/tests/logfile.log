@@ -1,0 +1,43 @@
+2020-10-12 17:58:20,946 :INFO : PythonSelfFramework.utilities.BaseClass :hey is this working
+2020-10-12 17:58:21,089 :INFO : PythonSelfFramework.utilities.BaseClass :hello
+2020-10-12 17:59:19,043 :INFO : PythonSelfFramework.utilities.BaseClass :hey is this working
+2020-10-12 18:01:26,319 :INFO : PythonSelfFramework.utilities.BaseClass :hey is this working
+2020-10-12 18:46:49,396 :INFO : tests_e2e :hey is this working
+2020-10-12 18:46:49,540 :INFO : tests_e2e :hello
+2020-10-12 19:21:34,471 :INFO : tests_e2e :here, we are getting all the card titles
+2020-10-12 19:21:34,496 :INFO : tests_e2e :iphone X
+2020-10-12 19:21:34,518 :INFO : tests_e2e :Samsung Note 8
+2020-10-12 19:21:34,537 :INFO : tests_e2e :Nokia Edge
+2020-10-12 19:21:34,557 :INFO : tests_e2e :Blackberry
+2020-10-12 19:21:34,560 :INFO : tests_e2e :Confirming phone type
+2020-10-12 19:21:34,952 :INFO : tests_e2e :Picking country
+2020-10-12 19:21:34,953 :WARNING : tests_e2e :country didnt work
+2020-10-12 19:22:24,514 :INFO : tests_e2e :here, we are getting all the card titles
+2020-10-12 19:22:24,539 :INFO : tests_e2e :iphone X
+2020-10-12 19:22:24,561 :INFO : tests_e2e :Samsung Note 8
+2020-10-12 19:22:24,581 :INFO : tests_e2e :Nokia Edge
+2020-10-12 19:22:24,597 :INFO : tests_e2e :Blackberry
+2020-10-12 19:22:24,597 :INFO : tests_e2e :Confirming phone type
+2020-10-12 19:22:25,059 :INFO : tests_e2e :Picking country
+2020-10-12 19:22:25,059 :WARNING : tests_e2e :country didnt work
+2020-10-12 19:24:15,315 :INFO : tests_e2e :here, we are getting all the card titles
+2020-10-12 19:24:15,334 :INFO : tests_e2e :iphone X
+2020-10-12 19:24:15,351 :INFO : tests_e2e :Samsung Note 8
+2020-10-12 19:24:15,373 :INFO : tests_e2e :Nokia Edge
+2020-10-12 19:24:15,395 :INFO : tests_e2e :Blackberry
+2020-10-12 19:24:15,395 :INFO : tests_e2e :Confirming phone type
+2020-10-12 19:24:16,018 :INFO : tests_e2e :Picking country
+2020-10-12 19:30:04,816 :INFO : tests_e2e :here, we are getting all the card titles
+2020-10-12 19:30:04,834 :INFO : tests_e2e :iphone X
+2020-10-12 19:30:04,849 :INFO : tests_e2e :Samsung Note 8
+2020-10-12 19:30:04,867 :INFO : tests_e2e :Nokia Edge
+2020-10-12 19:30:04,885 :INFO : tests_e2e :Blackberry
+2020-10-12 19:30:04,886 :INFO : tests_e2e :Confirming phone type
+2020-10-12 19:30:05,287 :INFO : tests_e2e :Picking country
+2020-10-12 19:30:50,324 :INFO : tests_e2e :here, we are getting all the card titles
+2020-10-12 19:30:50,340 :INFO : tests_e2e :iphone X
+2020-10-12 19:30:50,355 :INFO : tests_e2e :Samsung Note 8
+2020-10-12 19:30:50,370 :INFO : tests_e2e :Nokia Edge
+2020-10-12 19:30:50,385 :INFO : tests_e2e :Blackberry
+2020-10-12 19:30:50,385 :INFO : tests_e2e :Confirming phone type
+2020-10-12 19:30:50,786 :INFO : tests_e2e :Picking country
