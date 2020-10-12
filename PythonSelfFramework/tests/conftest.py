@@ -22,11 +22,9 @@ def ourSetup(request):
       driver = webdriver.Chrome(executable_path="C:\\chromedriver.exe")
       # driver.get("https://rahulshettyacademy.com/angularpractice/")
       # driver.maximize_window()
-
-   elif browser_name == "microsoft edge":
-      print("hi")
    elif browser_name == "firefox":
-      print("hello")
+      driver = webdriver.Firefox(executable_path="C:\\geckodriver.exe")
+
 
 
    driver.get("https://rahulshettyacademy.com/angularpractice/")
@@ -40,7 +38,7 @@ def ourSetup(request):
 
    request.cls.driver = driver
    yield
-   # driver.close()
+
 
 
 

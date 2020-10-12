@@ -8,8 +8,13 @@ class TestTwo(BaseClass):
    def tests_e2e(self):
 
        home = Homepage(self.driver)
+
        home.clickshopbutton().click()
+
+
        cards = home.cardscountlist()
+
+
 
 
 
@@ -19,6 +24,7 @@ class TestTwo(BaseClass):
        for card in cards:
            i = i + 1
            cardText = card.text
+
 
            if cardText == "Blackberry":
 
